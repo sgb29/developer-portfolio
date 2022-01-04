@@ -21,7 +21,7 @@ h1{
 }
 
 .half-width2 img{
-    width: 50%;
+    width: 20%;
 }
 .link-button{
     text-decoration: none;
@@ -43,4 +43,3 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-position: right;
 }
-
